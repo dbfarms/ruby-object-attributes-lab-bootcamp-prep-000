@@ -5,7 +5,7 @@ class Person
     @job = job
   end
 
-  def name 
+  def name
     @name
   end
 
